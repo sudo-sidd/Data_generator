@@ -1,0 +1,9 @@
+{
+  "fields": [
+    {"name": "patient_id", "type": "uuid"},
+    {"name": "name", "type": "string", "format": "name"},
+    {"name": "dob", "type": "date"},
+    {"name": "email", "type": "string", "format": "email"},
+    {"name": "diagnosis", "type": "string"}
+  ]
+}
